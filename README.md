@@ -19,4 +19,4 @@ avoid_this, fun, especially, anything
 
 The Ridge Logistic Classifier performed sufficiently well with an AUROC score of 0.9684. So, it correctly predicted the sentiments of nearly 97% of the IMDb reviews in the test data.
 
-[auroc-plot-model-evaluation-image](https://raw.githubusercontent.com/wjonasreger/text_classification_interpretation/main/text_classification_interpretation_files/figure-html/model%20evaluations-1.png)
+![auroc-plot-model-evaluation-image](https://raw.githubusercontent.com/wjonasreger/text_classification_interpretation/main/text_classification_interpretation_files/figure-html/model%20evaluations-1.png)
